@@ -29,6 +29,15 @@ namespace ConsoleApponGit
         {
             Console.WriteLine("div");
         }
+        public void div1()
+        {
+            Console.WriteLine("div");
+        }
+        public void div2()
+        {
+            Console.WriteLine("div");
+        }
+
 
     }
 

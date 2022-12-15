@@ -25,6 +25,10 @@ namespace ConsoleApponGit
         {
             Console.WriteLine("mul");
         }
+        public void div()
+        {
+            Console.WriteLine("div");
+        }
 
     }
 

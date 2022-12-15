@@ -21,5 +21,15 @@ namespace ConsoleApponGit
         {
             Console.WriteLine("sub");
         }
+        public void mul()
+        {
+            Console.WriteLine("mul");
+        }
+        public void div()
+        {
+            Console.WriteLine("div");
+        }
+
     }
+
 }
